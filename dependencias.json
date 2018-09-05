@@ -1,10 +1,10 @@
 {
-    "fun_aq": null,
+    "fun_aq": "fun_monterelax",
     "fk": true,
     "dependencias": [
         {
             "version": "v1.0",
-            "key": "baseparche"
+            "key": "gesttare"
         }
     ]
 }
