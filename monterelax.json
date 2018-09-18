@@ -9,6 +9,10 @@
             {
                 "name": "registros.json",
                 "path": "config/"
+            },
+            {
+                "name": "app_gesttare__gt_tareas.json",
+                "path": "apps/gesttare/templates/gesttare/plantillas/"
             }
         ],
         "replaceFile": [
@@ -18,7 +22,12 @@
             }
         ],
         "addFile": [],
-        "patchScript": [],
+        "patchScript": [
+            {
+                "path": "models/flgesttare/",
+                "name": "model_flgesttare__gt_tareas.py"
+            }
+        ],
         "deleteFile": []
     }
 }

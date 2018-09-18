@@ -1,0 +1,11 @@
+{
+    "modifications": [
+        {
+            "type": "insertAfterNode",
+            "path": "/layout/groupBoxPadre/layout/groupBoxComentarios/layout/groupBoxNuevoComentario/layout/field_adjunto/action",
+            "value": {
+                "autoUpload": false
+            }
+        }
+    ]
+}
