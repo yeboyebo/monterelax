@@ -22,12 +22,7 @@
             }
         ],
         "addFile": [],
-        "patchScript": [
-            {
-                "path": "models/flgesttare/",
-                "name": "model_flgesttare__gt_tareas.py"
-            }
-        ],
+        "patchScript": [],
         "deleteFile": []
     }
 }
