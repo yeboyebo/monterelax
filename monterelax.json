@@ -13,6 +13,10 @@
             {
                 "name": "app_gesttare__gt_tareas.json",
                 "path": "apps/gesttare/templates/gesttare/plantillas/"
+            },
+            {
+                "path": "apps/gesttare/templates/gesttare/plantillas/",
+                "name": "app_gesttare__mastergt_tareas.json"
             }
         ],
         "replaceFile": [
@@ -26,6 +30,10 @@
             {
                 "name": "app_portal__views_portal.py",
                 "path": "apps/portal/viewset/"
+            },
+            {
+                "path": "models/flgesttare/",
+                "name": "model_flgesttare__gt_tareas_def.py"
             }
         ],
         "deleteFile": []
