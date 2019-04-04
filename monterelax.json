@@ -23,9 +23,22 @@
             {
                 "name": "dependencias.json",
                 "path": "config/"
+            },
+            {
+                "path": "assets/dist/img/logo/",
+                "name": "logo.png"
             }
         ],
-        "addFile": [],
+        "addFile": [
+            {
+                "path": "assets/dist/img/logo/",
+                "name": "gesttarelogo.png"
+            },
+            {
+                "path": "assets/dist/img/logo/",
+                "name": "footer.png"
+            }
+        ],
         "patchScript": [
             {
                 "name": "app_portal__views_portal.py",
